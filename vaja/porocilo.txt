@@ -1,0 +1,1 @@
+1. Status vseh datotek pred commitom je najprej bil unstaged nato pa staged.
